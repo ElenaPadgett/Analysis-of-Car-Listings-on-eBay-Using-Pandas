@@ -1,4 +1,4 @@
-# UsedCarListings
+# Analysis of Car Listings on eBay Using Pandas
 This is a guided project from DataQuest.io (online platform to learn Data Analysis and Data Science).
 
 The learning goal of the project is to practice data cleaning and data exploration using pandas.
